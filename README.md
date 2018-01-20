@@ -1,15 +1,13 @@
 Learn to Python3
 ===================
 
-
-## Python History
- - Who led to create Python?
- - Why named as Python?
- - Summary Of Known Python Releases
+## [Introduction](./Introduction.md)
+ * [Python History](./Introduction.md/#python-history)
+ * [Python Interpreter](./Introduction.md/#python-interpreter)
+ * [Python Standard Library](./Introduction.md/#python-standard-library)
  
  ****
-Python Basics
--------------
+## Python Basics
  - Basic Operators
  - Data Type
  - Data Structures
