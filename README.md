@@ -25,8 +25,8 @@ Learn to Python3
 ## Numpy
  - [Introduction Numpy](./Numpy/Introduction_numpy.md)
  - [Numpy ndarray](./Numpy/Numpy_ndarray.md)
- 	- Array Object(./Numpy/Numpy_ndarray.md/#array-object)
- 	- Array Creation(./Numpy/Numpy_ndarray.md/#array-creation)
+ 	- [Array Object](./Numpy/Numpy_ndarray.md/#array-object)
+ 	- [Array Creation](./Numpy/Numpy_ndarray.md/#array-creation)
 	- Data Types for ndarrays
  	- Attribute of and ndarray
 	- Operations between Arrays and Scalars
