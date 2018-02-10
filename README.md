@@ -34,7 +34,7 @@ Learn to Python3
 	- Boolean Indexing
 	- Fancy Indexing
 	- Transposing Arrays and Swapping Axes
-- [Universal Functions](./Numpy/Universal_function.md)
+- [Universal Functions](./Numpy/Universal_functions.md)
 - Data Processing Using Arrays
 	- Expressing Conditional Logic as Array Operation
 	- Mathematical and Statistical Methods
